@@ -1,4 +1,4 @@
-using CleanArchitecture.Domain.Entities;
+using Core.CleanArchitecture.Domain.Entities;
 
 namespace Infrastructure.CleanArchitecture.Persistance.Context
 {
