@@ -1,3 +1,5 @@
+using Core.CleanArchitecture.Domain.Entities;
+
 namespace Infrastructure.CleanArchitecture.Persistance.Context
 {
     public class AppDbContext : DbContext
