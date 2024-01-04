@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "MP5GBz0R1tllRePosJ8IU+s/voPB2fwwqD7O0XCGFKDha1QwqBU+xqpWaAuWQIC1oFDsUhErz6Mk1vyCgwXvxw==",
+  "dgSpecHash": "U2w6qSBD8czWybpGv1LxrjtXTn0n5Z8OTYoLGS85Wo9TgXdmQ391T1jKl7td2wo1i+glLUwu+rD3Ne07e+z1Ag==",
   "success": true,
   "projectFilePath": "/home/marcos/Área de Trabalho/Codetech/estudos/csharp-projects/Macoratti/clean-architecture/Core/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/marcos/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/marcos/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/marcos/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.0/fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/marcos/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/marcos/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
